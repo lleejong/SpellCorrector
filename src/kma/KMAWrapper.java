@@ -48,6 +48,11 @@ public class KMAWrapper {
 			System.out.println("usernoun loading fail");
 			return;
 		}
+		ret = knowledge.loadUserNoun("src/test", "poi-nnr-spacing.txt", true);
+		if (ret < 0) {
+			System.out.println("usernoun loading fail");
+			return;
+		}
 		analyzer = new WK_Analyzer(knowledge);
 		eojul = new WK_Eojul();
 		eojul.createObject();
