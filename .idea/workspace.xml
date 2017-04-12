@@ -2,42 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8440f7fb-df61-423f-a4f7-0380fa08dfe7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/random_sampled_700_300_all" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/MakeUserNoun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-list.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-summary.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withDic-list.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withDic-summary.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-modified-bigram.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-nnr-spacing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/wko.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/default_result.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_oC.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_oV.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_tCD.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_tCI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_tVD.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_tVI.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/SpellCorrector.class" afterPath="$PROJECT_DIR$/bin/SpellCorrector.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/debug/Etc.class" afterPath="$PROJECT_DIR$/bin/debug/Etc.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/debug/Word.class" afterPath="$PROJECT_DIR$/bin/debug/Word.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dic/NounDic$Noun.class" afterPath="$PROJECT_DIR$/bin/dic/NounDic$Noun.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dic/NounDic$Result.class" afterPath="$PROJECT_DIR$/bin/dic/NounDic$Result.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dic/NounDic.class" afterPath="$PROJECT_DIR$/bin/dic/NounDic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/kma/KMAWrapper$KMAResult.class" afterPath="$PROJECT_DIR$/bin/kma/KMAWrapper$KMAResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/kma/KMAWrapper.class" afterPath="$PROJECT_DIR$/bin/kma/KMAWrapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/test/POITest.class" afterPath="$PROJECT_DIR$/bin/test/POITest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/util/EditDistance.class" afterPath="$PROJECT_DIR$/bin/util/EditDistance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/util/FileUtil.class" afterPath="$PROJECT_DIR$/bin/util/FileUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/util/Jaso.class" afterPath="$PROJECT_DIR$/bin/util/Jaso.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/util/KeystrokeConvertor.class" afterPath="$PROJECT_DIR$/bin/util/KeystrokeConvertor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpellCorrector-proto.iml" afterPath="$PROJECT_DIR$/SpellCorrector-proto.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/test/poi-modified.txt" afterPath="$PROJECT_DIR$/bin/test/poi-modified.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SpellCorrector.java" afterPath="$PROJECT_DIR$/src/SpellCorrector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/NounDic.java" afterPath="$PROJECT_DIR$/src/dic/NounDic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kma/KMAWrapper.java" afterPath="$PROJECT_DIR$/src/kma/KMAWrapper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/POITest.java" afterPath="$PROJECT_DIR$/src/test/POITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/poi-modified.txt" afterPath="$PROJECT_DIR$/src/test/poi-modified.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/EditDistance.java" afterPath="$PROJECT_DIR$/src/util/EditDistance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/FileUtil.java" afterPath="$PROJECT_DIR$/src/util/FileUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/Jaso.java" afterPath="$PROJECT_DIR$/src/util/Jaso.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" afterPath="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/random_sampled_700_300_all" afterPath="$PROJECT_DIR$/src/dic/random_sampled_700_300_all" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/KeystrokeConvertor.java" afterPath="$PROJECT_DIR$/src/util/KeystrokeConvertor.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,46 +39,59 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Jaso.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/util/Jaso.java">
+      <file leaf-file-name="SpellCorrector.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SpellCorrector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2783">
-              <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+            <state relative-caret-position="46">
+              <caret line="100" column="54" lean-forward="true" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
+              <folding>
+                <element signature="e#2121#2129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomWordExtractor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/debug/RandomWordExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="184" column="31" lean-forward="false" selection-start-line="184" selection-start-column="31" selection-end-line="184" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#666#674#0" expanded="true" />
+                <element signature="e#736#744#0" expanded="true" />
+                <element signature="e#910#919#0" expanded="true" />
+                <element signature="e#1324#1333#0" expanded="true" />
+                <element signature="e#2141#2161#0" expanded="true" />
+                <element signature="e#2213#2222#0" expanded="true" />
+                <element signature="e#2274#2283#0" expanded="true" />
+                <element signature="e#3241#3249#0" expanded="true" />
+                <element signature="e#3301#3309#0" expanded="true" />
+                <element signature="e#3362#3370#0" expanded="true" />
+                <element signature="e#3423#3431#0" expanded="true" />
+                <element signature="e#3484#3492#0" expanded="true" />
+                <element signature="e#3545#3553#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result_oC.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dic/result_oC.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpellCorrector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SpellCorrector.java">
+      <file leaf-file-name="KeystrokeConvertor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/KeystrokeConvertor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomWordExtractor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/debug/RandomWordExtractor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="84" column="31" lean-forward="false" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#640#648#0" expanded="true" />
-                <element signature="e#710#718#0" expanded="true" />
-                <element signature="e#884#893#0" expanded="true" />
-                <element signature="e#1298#1307#0" expanded="true" />
-                <element signature="e#2136#2144#0" expanded="true" />
-                <element signature="e#2196#2204#0" expanded="true" />
-                <element signature="e#2257#2265#0" expanded="true" />
-                <element signature="e#2318#2326#0" expanded="true" />
-                <element signature="e#2379#2387#0" expanded="true" />
-                <element signature="e#2440#2448#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-656">
+              <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,34 +99,8 @@
       <file leaf-file-name="NounDic.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="943">
+            <state relative-caret-position="736">
               <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4757#4758#0" expanded="true" />
-                <element signature="e#4797#4798#0" expanded="true" />
-                <element signature="e#5435#5436#0" expanded="true" />
-                <element signature="e#5470#5471#0" expanded="true" />
-                <element signature="e#5518#5519#0" expanded="true" />
-                <element signature="e#5561#5562#0" expanded="true" />
-                <element signature="e#5606#5607#0" expanded="true" />
-                <element signature="e#5643#5644#0" expanded="true" />
-                <element signature="e#5702#5703#0" expanded="true" />
-                <element signature="e#5750#5751#0" expanded="true" />
-                <element signature="e#5798#5799#0" expanded="true" />
-                <element signature="e#5847#5848#0" expanded="true" />
-                <marker date="1491998378036" expanded="true" signature="3403:4400" ph="..." />
-                <marker date="1491998378036" expanded="false" signature="3565:3573" ph="&lt;~&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EditDistance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/util/EditDistance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -171,8 +144,10 @@
         <option value="$PROJECT_DIR$/src/util/Jaso.java" />
         <option value="$PROJECT_DIR$/src/dic/TempTest.java" />
         <option value="$PROJECT_DIR$/src/dic/NounDic.java" />
-        <option value="$PROJECT_DIR$/src/SpellCorrector.java" />
+        <option value="$PROJECT_DIR$/src/util/KeystrokeConvertor.java" />
+        <option value="$PROJECT_DIR$/src/dic/random_sampled_700_300_all" />
         <option value="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" />
+        <option value="$PROJECT_DIR$/src/SpellCorrector.java" />
       </list>
     </option>
   </component>
@@ -197,28 +172,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -228,11 +202,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -246,11 +220,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -258,17 +232,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="knowledge" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -282,11 +256,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemId" value="SpellCorrector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -298,14 +272,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpellCorrector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpellCorrector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wisekma-ml" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/wkosl.dll" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -331,7 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomWordExtractor">
+  <component name="RunManager" selected="Application.SpellCorrector">
     <configuration default="false" name="POITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -640,8 +629,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RandomWordExtractor" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SpellCorrector" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SpellCorrector" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RandomWordExtractor" />
         <item index="2" class="java.lang.String" itemvalue="Application.TempTest" />
         <item index="3" class="java.lang.String" itemvalue="Application.POITest" />
         <item index="4" class="java.lang.String" itemvalue="Application.KMAWrapper" />
@@ -685,7 +674,6 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -696,6 +684,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -711,11 +700,111 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/debug/RandomWordExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#666#674#0" expanded="true" />
+            <element signature="e#736#744#0" expanded="true" />
+            <element signature="e#910#919#0" expanded="true" />
+            <element signature="e#1324#1333#0" expanded="true" />
+            <element signature="e#2141#2161#0" expanded="true" />
+            <element signature="e#2213#2222#0" expanded="true" />
+            <element signature="e#2274#2283#0" expanded="true" />
+            <element signature="e#3241#3249#0" expanded="true" />
+            <element signature="e#3301#3309#0" expanded="true" />
+            <element signature="e#3362#3370#0" expanded="true" />
+            <element signature="e#3423#3431#0" expanded="true" />
+            <element signature="e#3484#3492#0" expanded="true" />
+            <element signature="e#3545#3553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Jaso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2783">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpellCorrector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding>
+            <element signature="e#2121#2129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/debug/RandomWordExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="84" column="31" lean-forward="false" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#666#674#0" expanded="true" />
+            <element signature="e#736#744#0" expanded="true" />
+            <element signature="e#910#919#0" expanded="true" />
+            <element signature="e#1324#1333#0" expanded="true" />
+            <element signature="e#2141#2161#0" expanded="true" />
+            <element signature="e#2213#2222#0" expanded="true" />
+            <element signature="e#2274#2283#0" expanded="true" />
+            <element signature="e#3241#3249#0" expanded="true" />
+            <element signature="e#3301#3309#0" expanded="true" />
+            <element signature="e#3362#3370#0" expanded="true" />
+            <element signature="e#3423#3431#0" expanded="true" />
+            <element signature="e#3484#3492#0" expanded="true" />
+            <element signature="e#3545#3553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/util/Jaso.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2737">
           <caret line="121" column="5" lean-forward="false" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -723,9 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3841">
           <caret line="177" column="45" lean-forward="false" selection-start-line="177" selection-start-column="45" selection-end-line="177" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,16 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3811#3819#0" expanded="true" />
-            <element signature="e#3989#3997#0" expanded="true" />
-            <element signature="e#4901#4909#0" expanded="true" />
-            <element signature="e#5067#5075#0" expanded="true" />
-            <element signature="e#5127#5135#0" expanded="true" />
-            <element signature="e#5192#5200#0" expanded="true" />
-            <marker date="1491986310453" expanded="false" signature="631:639" ph="&lt;~&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -758,7 +834,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2737">
           <caret line="121" column="5" lean-forward="false" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -766,9 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-207">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,13 +890,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IdeaIC2016.3/idea.exe.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.IdeaIC2016.3/idea.exe.vmoptions" />
     <entry file="file://$PROJECT_DIR$/src/test/poi-all.txt">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="-46">
@@ -834,7 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,7 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="150" column="9" lean-forward="true" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,7 +924,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="136952" column="4" lean-forward="false" selection-start-line="136952" selection-start-column="4" selection-end-line="136952" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,9 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,7 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,7 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,16 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-455">
           <caret line="137" column="53" lean-forward="false" selection-start-line="137" selection-start-column="53" selection-end-line="137" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3811#3819#0" expanded="true" />
-            <element signature="e#3989#3997#0" expanded="true" />
-            <element signature="e#4901#4909#0" expanded="true" />
-            <element signature="e#5067#5075#0" expanded="true" />
-            <element signature="e#5127#5135#0" expanded="true" />
-            <element signature="e#5192#5200#0" expanded="true" />
-            <marker date="1491986310453" expanded="false" signature="631:639" ph="&lt;~&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -909,7 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -917,53 +966,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2783">
           <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/TempTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpellCorrector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/TempTest.java" />
     <entry file="file://$PROJECT_DIR$/src/dic/speller.kor.utf8">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/util/EditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="1978">
           <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/noun_with_org">
+    <entry file="file://$PROJECT_DIR$/src/dic/noun_with_org" />
+    <entry file="file://$PROJECT_DIR$/src/dic/noun">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/debug/Etc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/noun">
+    <entry file="file://$PROJECT_DIR$/src/dic/random_sampled_700_300_all">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="7010" column="0" lean-forward="false" selection-start-line="7010" selection-start-column="0" selection-end-line="7010" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/result_tVI.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/result_tVD.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/result_tCD.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/result_tCI.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/result_oV.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -973,52 +1054,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
+        <state relative-caret-position="736">
           <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4757#4758#0" expanded="true" />
-            <element signature="e#4797#4798#0" expanded="true" />
-            <element signature="e#5435#5436#0" expanded="true" />
-            <element signature="e#5470#5471#0" expanded="true" />
-            <element signature="e#5518#5519#0" expanded="true" />
-            <element signature="e#5561#5562#0" expanded="true" />
-            <element signature="e#5606#5607#0" expanded="true" />
-            <element signature="e#5643#5644#0" expanded="true" />
-            <element signature="e#5702#5703#0" expanded="true" />
-            <element signature="e#5750#5751#0" expanded="true" />
-            <element signature="e#5798#5799#0" expanded="true" />
-            <element signature="e#5847#5848#0" expanded="true" />
-            <marker date="1491998378036" expanded="true" signature="3403:4400" ph="..." />
-            <marker date="1491998378036" expanded="false" signature="3565:3573" ph="&lt;~&gt;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/random_sampled_700_300_all">
+    <entry file="file://$PROJECT_DIR$/src/util/KeystrokeConvertor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="-656">
+          <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/result_oC.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/debug/RandomWordExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="84" column="31" lean-forward="false" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        <state relative-caret-position="713">
+          <caret line="184" column="31" lean-forward="false" selection-start-line="184" selection-start-column="31" selection-end-line="184" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#640#648#0" expanded="true" />
-            <element signature="e#710#718#0" expanded="true" />
-            <element signature="e#884#893#0" expanded="true" />
-            <element signature="e#1298#1307#0" expanded="true" />
-            <element signature="e#2136#2144#0" expanded="true" />
-            <element signature="e#2196#2204#0" expanded="true" />
-            <element signature="e#2257#2265#0" expanded="true" />
-            <element signature="e#2318#2326#0" expanded="true" />
-            <element signature="e#2379#2387#0" expanded="true" />
-            <element signature="e#2440#2448#0" expanded="true" />
+            <element signature="e#666#674#0" expanded="true" />
+            <element signature="e#736#744#0" expanded="true" />
+            <element signature="e#910#919#0" expanded="true" />
+            <element signature="e#1324#1333#0" expanded="true" />
+            <element signature="e#2141#2161#0" expanded="true" />
+            <element signature="e#2213#2222#0" expanded="true" />
+            <element signature="e#2274#2283#0" expanded="true" />
+            <element signature="e#3241#3249#0" expanded="true" />
+            <element signature="e#3301#3309#0" expanded="true" />
+            <element signature="e#3362#3370#0" expanded="true" />
+            <element signature="e#3423#3431#0" expanded="true" />
+            <element signature="e#3484#3492#0" expanded="true" />
+            <element signature="e#3545#3553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/default_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpellCorrector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="100" column="54" lean-forward="true" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
+          <folding>
+            <element signature="e#2121#2129#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1063,7 +1157,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1080,6 +1174,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1099,6 +1194,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

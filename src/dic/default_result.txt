@@ -1,0 +1,33 @@
+Config===
+MAX_DISTANCE: 2  OFFSET : 2
+Replace Weight : 0.5 Insert Weight : 0.3 Delete Weight : 0.2 // Vowel Weight : 0.7 Consonant Weight : 0.3
+result_oC
+Total : 10000
+Correct : 6879
+Accuracy : 68.78999999999999
+====================
+result_tCD
+Total : 10000
+Correct : 7150
+Accuracy : 71.5
+====================
+result_tCI
+Total : 10000
+Correct : 7468
+Accuracy : 74.68
+====================
+result_oV
+Total : 10000
+Correct : 7136
+Accuracy : 71.36
+====================
+result_tVD
+Total : 10000
+Correct : 7149
+Accuracy : 71.49
+====================
+result_tVI
+Total : 10000
+Correct : 7488
+Accuracy : 74.88
+====================

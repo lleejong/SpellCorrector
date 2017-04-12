@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="wko">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/wko.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

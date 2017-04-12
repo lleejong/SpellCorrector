@@ -4,6 +4,7 @@ import util.FileUtil;
 import util.KeystrokeConvertor;
 
 import java.io.IOException;
+import java.security.Key;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -58,33 +59,142 @@ public class RandomWordExtractor {
         }
     }
     
-    public static void makeOta(){
+    private static ArrayList<ArrayList<Integer>> getVCList(String str) {
+        int len = str.length();
+        ArrayList<ArrayList<Integer>> result = new ArrayList<ArrayList<Integer>>();
+        ArrayList<Integer> vList = new ArrayList<Integer>();
+        ArrayList<Integer> cList = new ArrayList<Integer>();
+        for (int i = 0; i < len; i++) {
+            char ch = str.charAt(i);
+            if (KeystrokeConvertor.isVowel(ch))
+                vList.add(i);
+            else
+                cList.add(i);
+        }
+        result.add(vList);
+        result.add(cList);
+        return result;
+    }
+    
+    private static int randIdx(ArrayList<Integer> list) {
+        int size = list.size();
+        int rand = (int) (Math.random() * size);
+        
+        return list.get(rand);
+    }
+    
+    private static int randIdx(String str) {
+        int size = str.length();
+        int rand = (int) (Math.random() * size);
+        return rand;
+    }
+    
+    private static int randIdx(int i) {
+        int rand = (int) (Math.random() * i);
+        return rand;
+    }
+    
+    public static void makeOta() {
         try {
             List<String> lines = FileUtil.readFile("src/dic/random_sampled_700_300_all");
             ArrayList<String> oV = new ArrayList<String>();
             ArrayList<String> oC = new ArrayList<String>();
             ArrayList<String> tVI = new ArrayList<String>();
             ArrayList<String> tVD = new ArrayList<String>();
-            ArrayList<String> oCI = new ArrayList<String>();
-            ArrayList<String> oCD = new ArrayList<String>();
-            for(String line : lines){
+            ArrayList<String> tCI = new ArrayList<String>();
+            ArrayList<String> tCD = new ArrayList<String>();
+            for (String line : lines) {
+                System.out.println(line);
+                ArrayList<ArrayList<Integer>> vcList = getVCList(line);
+                int randIdx = 0;
+                int len = line.length();
+                int iter;
+                char c;
+                StringBuffer buffer;
                 
-                String ovstr;
-                String ocstr;
-                String tVIstr;
-                String tVDstr;
-                String oCIstr;
-                String oCDstr;
+                buffer = new StringBuffer(line);
+                iter = randIdx(3);
+                for (int i = 0; i < iter; i++) {
+                    randIdx = randIdx(vcList.get(0));
+                    c = KeystrokeConvertor.randVowel(line.charAt(randIdx));
+                    buffer.setCharAt(randIdx, c);
+                }
+                String ovstr = line + "\t" + buffer.toString();
+                
+                buffer = new StringBuffer(line);
+                iter = randIdx(3);
+                for (int i = 0; i < iter; i++) {
+                    randIdx = randIdx(vcList.get(1));
+                    c = KeystrokeConvertor.randConsonant(line.charAt(randIdx));
+                    buffer.setCharAt(randIdx, c);
+                }
+                String ocstr = line + "\t" + buffer.toString();
+                
+                buffer = new StringBuffer(line);
+                iter = randIdx(3);
+                for (int i = 0; i < iter; i++) {
+                    c = KeystrokeConvertor.randVowel();
+                    randIdx = randIdx(line);
+                    buffer.insert(randIdx, c);
+                }
+                String tVIstr = line + "\t" + buffer.toString();
+                
+                buffer = new StringBuffer(line);
+                iter = randIdx(3);
+                while(line.length() - iter < 2){
+                    iter = randIdx(3);
+                }
+                for(int i = 0; i < iter; i++) {
+                    randIdx = randIdx(vcList.get(0));
+                    try {
+                        buffer.deleteCharAt(randIdx - iter);
+                    }catch(Exception e){
+                        break;
+                    }
+                }
+                String tVDstr = line + "\t" + buffer.toString();
+                
+                buffer = new StringBuffer(line);
+                iter = randIdx(3);
+                for (int i = 0; i < iter; i++) {
+                    c = KeystrokeConvertor.randConsonant();
+                    randIdx = randIdx(line);
+                    buffer.insert(randIdx, c);
+                }
+                String tCIstr = line + "\t" + buffer.toString();
+                
+                buffer = new StringBuffer(line);
+                iter = randIdx(3);
+                while(line.length() - iter < 2) {
+                    iter = randIdx(3);
+                }
+                for(int i = 0; i < iter; i++) {
+                    randIdx = randIdx(vcList.get(1));
+                    try {
+                        buffer.deleteCharAt(randIdx - iter);
+                    }catch (Exception e){
+                        break;
+                    }
+                }
+                String tCDstr = line + "\t" + buffer.toString();
                 
                 
                 oV.add(ovstr);
                 oC.add(ocstr);
                 tVI.add(tVIstr);
                 tVD.add(tVDstr);
-                oCI.add(oCIstr);
-                oCD.add(oCDstr);
+                tCI.add(tCIstr);
+                tCD.add(tCDstr);
                 
             }
+            
+            FileUtil.writeFile(oV, "src/dic/result_oV.txt");
+            FileUtil.writeFile(oC, "src/dic/result_oC.txt");
+            FileUtil.writeFile(tVI, "src/dic/result_tVI.txt");
+            FileUtil.writeFile(tVD, "src/dic/result_tVD.txt");
+            FileUtil.writeFile(tCI, "src/dic/result_tCI.txt");
+            FileUtil.writeFile(tCD, "src/dic/result_tCD.txt");
+            
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -92,5 +202,6 @@ public class RandomWordExtractor {
     
     public static void main(String args[]) {
         //randomSample();
+        makeOta();
     }
 }
