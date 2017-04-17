@@ -66,12 +66,12 @@ public class KeystrokeConvertor {
     
     private static void test(String str) {
         String test = Jaso.emjeolToJaso(str);
-        convert(test);
+        System.out.println(convert(test));
     }
     
     public static void main(String args[]) {
         loadKeymap();
-        test("照括しししAAA馬室しに");
+        test("rawdf");
     }
     
     

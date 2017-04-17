@@ -2,27 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8440f7fb-df61-423f-a4f7-0380fa08dfe7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/wko.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/default_result.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_oC.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_oV.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_tCD.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_tCI.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_tVD.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/result_tVI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/otaeng2han.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/otainterface.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/spellcorrector.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/spelldictionary.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller.lib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/spellfactory.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/spelltable.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.ilk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.ilk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.v11.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellFactory.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_spellcorrector-org.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_spellcorrector.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_spellfactory.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_1000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_oC.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_oC_1000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_oV.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_oV_1000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tCD.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tCD_1000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tCI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tCI_1000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tVD.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tVD_1000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tVI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tVI_1000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller-org.utf8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller.utf8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller.utf8.big" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller.utf8.simple" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.exe.manifest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.exe.manifest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellFactory.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellFactory.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellTableBuilder.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellTableBuilder.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/default_result_1000.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/dic/default_result.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/poi-all-nnr-withDic-list.txt" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withBigramDic-list.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/poi-all-nnr-withDic-summary.txt" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withBigramDic-summary.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/poi-nnr-spacing.txt" afterPath="$PROJECT_DIR$/src/test/poi-nnr-spacing-bigram.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/SpellCorrector.class" afterPath="$PROJECT_DIR$/bin/SpellCorrector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/debug/Etc.class" afterPath="$PROJECT_DIR$/bin/debug/Etc.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/debug/Word.class" afterPath="$PROJECT_DIR$/bin/debug/Word.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dic/NounDic$Noun.class" afterPath="$PROJECT_DIR$/bin/dic/NounDic$Noun.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dic/NounDic$Result.class" afterPath="$PROJECT_DIR$/bin/dic/NounDic$Result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/kma/KMAWrapper$KMAResult.class" afterPath="$PROJECT_DIR$/bin/kma/KMAWrapper$KMAResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/kma/KMAWrapper.class" afterPath="$PROJECT_DIR$/bin/kma/KMAWrapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/test/POITest.class" afterPath="$PROJECT_DIR$/bin/test/POITest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/util/KeystrokeConvertor.class" afterPath="$PROJECT_DIR$/bin/util/KeystrokeConvertor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpellCorrector-proto.iml" afterPath="$PROJECT_DIR$/SpellCorrector-proto.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/test/poi-modified.txt" afterPath="$PROJECT_DIR$/bin/test/poi-modified.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SpellCorrector.java" afterPath="$PROJECT_DIR$/src/SpellCorrector.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" afterPath="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/random_sampled_700_300_all" afterPath="$PROJECT_DIR$/src/dic/random_sampled_700_300_all" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_oC.txt" afterPath="$PROJECT_DIR$/src/dic/result_oC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_oV.txt" afterPath="$PROJECT_DIR$/src/dic/result_oV.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_tCD.txt" afterPath="$PROJECT_DIR$/src/dic/result_tCD.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_tCI.txt" afterPath="$PROJECT_DIR$/src/dic/result_tCI.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_tVD.txt" afterPath="$PROJECT_DIR$/src/dic/result_tVD.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_tVI.txt" afterPath="$PROJECT_DIR$/src/dic/result_tVI.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kma/KMAWrapper.java" afterPath="$PROJECT_DIR$/src/kma/KMAWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/MakeUserNoun.java" afterPath="$PROJECT_DIR$/src/test/MakeUserNoun.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/POITest.java" afterPath="$PROJECT_DIR$/src/test/POITest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/poi-all-nnr-summary.txt" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-summary.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/poi-modified-bigram.txt" afterPath="$PROJECT_DIR$/src/test/poi-modified-bigram.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/poi-modified.txt" afterPath="$PROJECT_DIR$/src/test/poi-modified.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/KeystrokeConvertor.java" afterPath="$PROJECT_DIR$/src/util/KeystrokeConvertor.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -38,75 +127,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SpellCorrector.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SpellCorrector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="100" column="54" lean-forward="true" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
-              <folding>
-                <element signature="e#2121#2129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomWordExtractor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/debug/RandomWordExtractor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="184" column="31" lean-forward="false" selection-start-line="184" selection-start-column="31" selection-end-line="184" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#666#674#0" expanded="true" />
-                <element signature="e#736#744#0" expanded="true" />
-                <element signature="e#910#919#0" expanded="true" />
-                <element signature="e#1324#1333#0" expanded="true" />
-                <element signature="e#2141#2161#0" expanded="true" />
-                <element signature="e#2213#2222#0" expanded="true" />
-                <element signature="e#2274#2283#0" expanded="true" />
-                <element signature="e#3241#3249#0" expanded="true" />
-                <element signature="e#3301#3309#0" expanded="true" />
-                <element signature="e#3362#3370#0" expanded="true" />
-                <element signature="e#3423#3431#0" expanded="true" />
-                <element signature="e#3484#3492#0" expanded="true" />
-                <element signature="e#3545#3553#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="result_oC.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dic/result_oC.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KeystrokeConvertor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/util/KeystrokeConvertor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-656">
-              <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NounDic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,6 +140,7 @@
     <findStrings>
       <find>kkkkkk</find>
       <find>charAt</find>
+      <find>flclahsem</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,22 +154,29 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/poi-modified.txt" />
-        <option value="$PROJECT_DIR$/src/test/MakeUserNoun.java" />
         <option value="$USER_HOME$/.IdeaIC2016.3/idea.exe.vmoptions" />
         <option value="$PROJECT_DIR$/src/knowledge/usernoun.txt" />
         <option value="$PROJECT_DIR$/src/test/poi-nnr-spacing.txt" />
         <option value="$PROJECT_DIR$/src/util/FileUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/POITest.java" />
-        <option value="$PROJECT_DIR$/src/kma/KMAWrapper.java" />
         <option value="$PROJECT_DIR$/src/util/EditDistance.java" />
         <option value="$PROJECT_DIR$/src/util/Jaso.java" />
         <option value="$PROJECT_DIR$/src/dic/TempTest.java" />
+        <option value="$PROJECT_DIR$/src/dic/random_sampled_700_300_all" />
         <option value="$PROJECT_DIR$/src/dic/NounDic.java" />
         <option value="$PROJECT_DIR$/src/util/KeystrokeConvertor.java" />
-        <option value="$PROJECT_DIR$/src/dic/random_sampled_700_300_all" />
-        <option value="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" />
+        <option value="$PROJECT_DIR$/src/dic/random_sampled_10000_all" />
         <option value="$PROJECT_DIR$/src/SpellCorrector.java" />
+        <option value="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" />
+        <option value="$PROJECT_DIR$/src/test/MakeUserNoun.java" />
+        <option value="$PROJECT_DIR$/lib/wko.jar!/kr/co/wisenut/wisekmaorange/WK_Knowledge.class" />
+        <option value="$PROJECT_DIR$/src/test/poi-all-nnr-summary.txt" />
+        <option value="$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-summary.txt" />
+        <option value="$PROJECT_DIR$/bin/test/poi-modified.txt" />
+        <option value="$PROJECT_DIR$/src/test/poi-modified.txt" />
+        <option value="$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram.txt" />
+        <option value="$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram-update2.txt" />
+        <option value="$PROJECT_DIR$/src/kma/KMAWrapper.java" />
+        <option value="$PROJECT_DIR$/src/test/POITest.java" />
       </list>
     </option>
   </component>
@@ -172,123 +201,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
+              <option name="myItemId" value="SpellCorrector-proto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
+              <option name="myItemId" value="SpellCorrector-proto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
+              <option name="myItemId" value="SpellCorrector-proto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
+              <option name="myItemId" value="SpellCorrector-proto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debug" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpellCorrector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,12 +242,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leejong\Documents\workspace\SpellCorrector-proto\lib" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\leejong\Documents\workspace\SpellCorrector-proto\src\dic" />
       <recent name="C:\Users\leejong\Documents\workspace\SpellCorrector-proto\src\test" />
+      <recent name="C:\Users\leejong\Documents\workspace\SpellCorrector-proto\src\dic" />
       <recent name="C:\Users\leejong\Documents\workspace\SpellCorrector-proto\src\kma" />
     </key>
   </component>
@@ -320,70 +266,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpellCorrector">
-    <configuration default="false" name="POITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="kma.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="test.POITest" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SpellCorrector-proto" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="KMAWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="kma.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="kma.KMAWrapper" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SpellCorrector-proto" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.POITest">
     <configuration default="false" name="SpellCorrector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SpellCorrector" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SpellCorrector-proto" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TempTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="dic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="dic.TempTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -404,6 +290,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="debug.RandomWordExtractor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SpellCorrector-proto" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="KeystrokeConvertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="util.KeystrokeConvertor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SpellCorrector-proto" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MakeUserNoun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.MakeUserNoun" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SpellCorrector-proto" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="POITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.POITest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -621,19 +567,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.POITest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KMAWrapper" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SpellCorrector" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TempTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RandomWordExtractor" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SpellCorrector" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RandomWordExtractor" />
+      <item index="2" class="java.lang.String" itemvalue="Application.KeystrokeConvertor" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MakeUserNoun" />
+      <item index="4" class="java.lang.String" itemvalue="Application.POITest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SpellCorrector" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RandomWordExtractor" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TempTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.POITest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.KMAWrapper" />
+        <item index="0" class="java.lang.String" itemvalue="Application.POITest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MakeUserNoun" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SpellCorrector" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RandomWordExtractor" />
+        <item index="4" class="java.lang.String" itemvalue="Application.KeystrokeConvertor" />
       </list>
     </recent_temporary>
   </component>
@@ -666,11 +612,12 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="97" y="117" width="1736" height="856" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17671958" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22116402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -679,7 +626,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4099783" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -687,6 +634,36 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17671958" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -700,258 +677,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/debug/RandomWordExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#666#674#0" expanded="true" />
-            <element signature="e#736#744#0" expanded="true" />
-            <element signature="e#910#919#0" expanded="true" />
-            <element signature="e#1324#1333#0" expanded="true" />
-            <element signature="e#2141#2161#0" expanded="true" />
-            <element signature="e#2213#2222#0" expanded="true" />
-            <element signature="e#2274#2283#0" expanded="true" />
-            <element signature="e#3241#3249#0" expanded="true" />
-            <element signature="e#3301#3309#0" expanded="true" />
-            <element signature="e#3362#3370#0" expanded="true" />
-            <element signature="e#3423#3431#0" expanded="true" />
-            <element signature="e#3484#3492#0" expanded="true" />
-            <element signature="e#3545#3553#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1978">
-          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/Jaso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2783">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpellCorrector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-          <folding>
-            <element signature="e#2121#2129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1978">
-          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/debug/RandomWordExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1794">
-          <caret line="84" column="31" lean-forward="false" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#666#674#0" expanded="true" />
-            <element signature="e#736#744#0" expanded="true" />
-            <element signature="e#910#919#0" expanded="true" />
-            <element signature="e#1324#1333#0" expanded="true" />
-            <element signature="e#2141#2161#0" expanded="true" />
-            <element signature="e#2213#2222#0" expanded="true" />
-            <element signature="e#2274#2283#0" expanded="true" />
-            <element signature="e#3241#3249#0" expanded="true" />
-            <element signature="e#3301#3309#0" expanded="true" />
-            <element signature="e#3362#3370#0" expanded="true" />
-            <element signature="e#3423#3431#0" expanded="true" />
-            <element signature="e#3484#3492#0" expanded="true" />
-            <element signature="e#3545#3553#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/Jaso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2737">
-          <caret line="121" column="5" lean-forward="false" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kma/KMAWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3841">
-          <caret line="177" column="45" lean-forward="false" selection-start-line="177" selection-start-column="45" selection-end-line="177" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/POITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/Jaso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2737">
-          <caret line="121" column="5" lean-forward="false" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kma/KMAWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/speller.utf8">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kma/poi-modified.txt" />
-    <entry file="file://$PROJECT_DIR$/src/test/poi-test-result2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2292840">
-          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/MakeUserNoun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/poi-modified-bigram.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108206">
-          <caret line="439090" column="10" lean-forward="false" selection-start-line="439090" selection-start-column="10" selection-end-line="439090" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/poi-test-result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/poi-modified.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.IdeaIC2016.3/idea.exe.vmoptions" />
-    <entry file="file://$PROJECT_DIR$/src/test/poi-all.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-46">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/FileUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/knowledge/usernoun.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="150" column="9" lean-forward="true" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/poi-nnr-spacing.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="136952" column="4" lean-forward="false" selection-start-line="136952" selection-start-column="4" selection-end-line="136952" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kma/KMAWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-summary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-withDic-summary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/POITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-455">
-          <caret line="137" column="53" lean-forward="false" selection-start-line="137" selection-start-column="53" selection-end-line="137" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -962,32 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/Jaso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2783">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dic/TempTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/dic/speller.kor.utf8">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1978">
-          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dic/noun_with_org" />
     <entry file="file://$PROJECT_DIR$/src/dic/noun">
       <provider selected="true" editor-type-id="text-editor">
@@ -996,43 +701,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/debug/Etc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/random_sampled_700_300_all">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="7010" column="0" lean-forward="false" selection-start-line="7010" selection-start-column="0" selection-end-line="7010" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/result_tVI.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/result_tVD.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dic/result_tCD.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,7 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1048,58 +719,151 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/random_sampled_700_300_all">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="7010" column="0" lean-forward="false" selection-start-line="7010" selection-start-column="0" selection-end-line="7010" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Jaso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-794">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
+    <entry file="file://$PROJECT_DIR$/src/dic/result_tVD.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        <state relative-caret-position="391">
+          <caret line="8009" column="0" lean-forward="false" selection-start-line="8009" selection-start-column="0" selection-end-line="8009" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/KeystrokeConvertor.java">
+    <entry file="file://$PROJECT_DIR$/src/dic/result_tVI.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-656">
-          <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        <state relative-caret-position="23000">
+          <caret line="10000" column="0" lean-forward="false" selection-start-line="10000" selection-start-column="0" selection-end-line="10000" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/speller.kor.utf8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3798726">
+          <caret line="165162" column="0" lean-forward="false" selection-start-line="165162" selection-start-column="0" selection-end-line="165162" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="120" column="31" lean-forward="false" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/speller.utf8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3424838">
+          <caret line="148906" column="6" lean-forward="false" selection-start-line="148906" selection-start-column="6" selection-end-line="148906" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/random_sampled_1000_all">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-690">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dic/result_oC.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <caret line="996" column="6" lean-forward="false" selection-start-line="996" selection-start-column="6" selection-end-line="996" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/knowledge/usernoun.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3243">
+          <caret line="150" column="9" lean-forward="true" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/MakeUserNoun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/random_sampled_10000_all">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="986" column="8" lean-forward="false" selection-start-line="986" selection-start-column="8" selection-end-line="986" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpellCorrector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="e#674#675#0" expanded="false" />
+            <element signature="e#705#706#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/default_result_1000.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/KeystrokeConvertor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/debug/RandomWordExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="184" column="31" lean-forward="false" selection-start-line="184" selection-start-column="31" selection-end-line="184" selection-end-column="31" />
+        <state relative-caret-position="230">
+          <caret line="124" column="48" lean-forward="false" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#666#674#0" expanded="true" />
-            <element signature="e#736#744#0" expanded="true" />
-            <element signature="e#910#919#0" expanded="true" />
-            <element signature="e#1324#1333#0" expanded="true" />
-            <element signature="e#2141#2161#0" expanded="true" />
-            <element signature="e#2213#2222#0" expanded="true" />
-            <element signature="e#2274#2283#0" expanded="true" />
-            <element signature="e#3241#3249#0" expanded="true" />
-            <element signature="e#3301#3309#0" expanded="true" />
-            <element signature="e#3362#3370#0" expanded="true" />
-            <element signature="e#3423#3431#0" expanded="true" />
-            <element signature="e#3484#3492#0" expanded="true" />
-            <element signature="e#3545#3553#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dic/default_result.txt">
+    <entry file="file://$PROJECT_DIR$/src/test/poi-test-result2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-withBigramDic-list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1107,13 +871,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpellCorrector.java">
+    <entry file="jar://$PROJECT_DIR$/lib/wko.jar!/kr/co/wisenut/wisekmaorange/WK_Knowledge.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-withBigramDic-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="100" column="54" lean-forward="true" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-nnr-spacing-bigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="136952" column="4" lean-forward="false" selection-start-line="136952" selection-start-column="4" selection-end-line="136952" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all-bigram.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-modified-bigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="229433" column="2" lean-forward="false" selection-start-line="229433" selection-start-column="2" selection-end-line="229433" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="1327793">
+          <caret line="57817" column="9" lean-forward="true" selection-start-line="57817" selection-start-column="9" selection-end-line="57817" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/test/poi-modified.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="1745" column="6" lean-forward="false" selection-start-line="1745" selection-start-column="6" selection-end-line="1745" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/debug/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/debug/Etc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1012">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dic/NounDic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
           <folding>
-            <element signature="e#2121#2129#0" expanded="true" />
+            <marker date="1491998378036" expanded="true" signature="3403:4400" ph="..." />
+            <marker date="1491998378036" expanded="false" signature="3565:3573" ph="&lt;~&gt;" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="152">
+          <caret line="68318" column="8" lean-forward="false" selection-start-line="68318" selection-start-column="8" selection-end-line="68318" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-modified.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="1083" column="6" lean-forward="false" selection-start-line="1083" selection-start-column="6" selection-end-line="1083" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kma/KMAWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="56" column="81" lean-forward="false" selection-start-line="56" selection-start-column="81" selection-end-line="56" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-test-result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/POITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="290" column="83" lean-forward="false" selection-start-line="290" selection-start-column="83" selection-end-line="290" selection-end-column="83" />
+          <folding>
+            <element signature="e#4529#4537#0" expanded="true" />
+            <element signature="e#4602#4610#0" expanded="true" />
+            <element signature="e#4902#4910#0" expanded="true" />
+            <element signature="e#7946#7954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-update-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="78987" column="3" lean-forward="false" selection-start-line="78987" selection-start-column="3" selection-end-line="78987" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-update-list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-update2-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram-update.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="921" column="3" lean-forward="false" selection-start-line="921" selection-start-column="3" selection-end-line="921" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram-update2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="33028" column="3" lean-forward="false" selection-start-line="33028" selection-start-column="3" selection-end-line="33028" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>

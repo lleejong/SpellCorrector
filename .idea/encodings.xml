@@ -4,6 +4,9 @@
     <file url="file://$PROJECT_DIR$/src/dic/NounDic.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/src/kma/KMAWrapper.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/src/knowledge/usernoun.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram-update.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram-update2.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram.txt" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/src/util/EditDistance.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/src/util/Jaso.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/src/util/KeystrokeConvertor.java" charset="x-windows-949" />

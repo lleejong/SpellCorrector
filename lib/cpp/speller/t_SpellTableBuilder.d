@@ -1,0 +1,1 @@
+t_SpellTableBuilder.obj: t_SpellTableBuilder.cpp

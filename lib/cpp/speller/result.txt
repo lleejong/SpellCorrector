@@ -1,0 +1,43 @@
+result_oC
+====================
+Total : 10000
+Correct : 9878
+Accuracy : 98.78
+Elapsed Time : 2069.66
+====================
+result_tCD
+====================
+Total : 10000
+Correct : 9365
+Accuracy : 93.65
+Elapsed Time : 2019.14
+====================
+result_tCI
+====================
+Total : 10000
+Correct : 9992
+Accuracy : 99.92
+Elapsed Time : 2008.36
+====================
+result_oV
+====================
+Total : 10000
+Correct : 9868
+Accuracy : 98.68
+Elapsed Time : 2007.16
+====================
+result_tVD
+====================
+Total : 10000
+Correct : 9287
+Accuracy : 92.87
+Elapsed Time : 2007.81
+====================
+result_tVI
+====================
+Total : 10000
+Correct : 9995
+Accuracy : 99.95
+Elapsed Time : 2006.24
+====================
+Total Elapsed Time : 12118.4

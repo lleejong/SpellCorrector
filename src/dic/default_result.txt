@@ -2,32 +2,45 @@ Config===
 MAX_DISTANCE: 2  OFFSET : 2
 Replace Weight : 0.5 Insert Weight : 0.3 Delete Weight : 0.2 // Vowel Weight : 0.7 Consonant Weight : 0.3
 result_oC
+====================
 Total : 10000
-Correct : 6879
-Accuracy : 68.78999999999999
+Correct : 9868
+Accuracy : 98.68
+Elapsed Time : 1579.119
 ====================
 result_tCD
+====================
 Total : 10000
-Correct : 7150
-Accuracy : 71.5
+Correct : 9865
+Accuracy : 98.65
+Elapsed Time : 1369.213
 ====================
 result_tCI
+====================
 Total : 10000
-Correct : 7468
-Accuracy : 74.68
+Correct : 9985
+Accuracy : 99.85000000000001
+Elapsed Time : 1547.112
 ====================
 result_oV
+====================
 Total : 10000
-Correct : 7136
-Accuracy : 71.36
+Correct : 9915
+Accuracy : 99.15
+Elapsed Time : 1550.852
 ====================
 result_tVD
+====================
 Total : 10000
-Correct : 7149
-Accuracy : 71.49
+Correct : 9856
+Accuracy : 98.56
+Elapsed Time : 1391.002
 ====================
 result_tVI
-Total : 10000
-Correct : 7488
-Accuracy : 74.88
 ====================
+Total : 10000
+Correct : 9986
+Accuracy : 99.86
+Elapsed Time : 1539.836
+====================
+Total Elapsed Time : 8977.133999999998
