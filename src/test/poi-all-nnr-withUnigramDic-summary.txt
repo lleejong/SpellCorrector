@@ -1,0 +1,4 @@
+NullCnt : 1943113
+NNR : 70755
+Total Elapsed Time : 196.302 secs.
+---Dic loading time : 4.67 secs.

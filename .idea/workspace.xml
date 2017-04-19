@@ -1,118 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8440f7fb-df61-423f-a4f7-0380fa08dfe7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.idb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.idb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.idb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.idb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.idb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.idb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/otaeng2han.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/otainterface.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/spellcorrector.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/spelldictionary.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller.lib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/spellfactory.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/spelltable.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.idb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.ilk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.idb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.ilk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.v11.suo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellFactory.idb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_spellcorrector-org.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_spellcorrector.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_spellfactory.pdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/Makefile.win" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_1000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_oC.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_oC_1000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_oV.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_oV_1000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tCD.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tCD_1000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tCI.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tCI_1000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tVD.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tVD_1000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tVI.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/result_tVI_1000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller-org.utf8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller.utf8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller.utf8.big" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/speller.utf8.simple" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.exe.manifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.exe.manifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellFactory.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellFactory.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellTableBuilder.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cpp/speller/t_SpellTableBuilder.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/default_result_1000.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/dic/default_result.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/poi-all-nnr-withDic-list.txt" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withBigramDic-list.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/poi-all-nnr-withDic-summary.txt" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withBigramDic-summary.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/poi-nnr-spacing.txt" afterPath="$PROJECT_DIR$/src/test/poi-nnr-spacing-bigram.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/SpellCorrector.class" afterPath="$PROJECT_DIR$/bin/SpellCorrector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/debug/Word.class" afterPath="$PROJECT_DIR$/bin/debug/Word.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dic/NounDic$Noun.class" afterPath="$PROJECT_DIR$/bin/dic/NounDic$Noun.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dic/NounDic$Result.class" afterPath="$PROJECT_DIR$/bin/dic/NounDic$Result.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/kma/KMAWrapper$KMAResult.class" afterPath="$PROJECT_DIR$/bin/kma/KMAWrapper$KMAResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/kma/KMAWrapper.class" afterPath="$PROJECT_DIR$/bin/kma/KMAWrapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/test/POITest.class" afterPath="$PROJECT_DIR$/bin/test/POITest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/util/KeystrokeConvertor.class" afterPath="$PROJECT_DIR$/bin/util/KeystrokeConvertor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+    <list default="true" id="8440f7fb-df61-423f-a4f7-0380fa08dfe7" name="Default" comment=".">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/random_sampled_10000_all" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dic/random_sampled_1000_all" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-bigram.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-list.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-summary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-update-list.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-update-summary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-update2-list.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-withUnigramDic-update2-summary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram-update.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram-update2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/poi-nnr-spacing-unigram.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/Makefile.win" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.idb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaEng2Han.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.idb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/OtaInterface.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.idb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.idb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellDictionary.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.idb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellFactory.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.idb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/SpellTable.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/otaeng2han.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/otainterface.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_1000.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_oC.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_oC_1000.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_oV.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_oV_1000.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_tCD.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_tCD_1000.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_tCI.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_tCI_1000.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_tVD.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_tVD_1000.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_tVI.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/result_tVI_1000.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/spellcorrector.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/spelldictionary.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/speller-org.utf8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/speller.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/speller.utf8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/speller.utf8.big" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/speller.utf8.simple" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/spellfactory.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/spelltable.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.idb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.ilk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector-org.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.idb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.ilk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellCorrector.v11.suo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellFactory.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellFactory.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellFactory.idb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellTableBuilder.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_SpellTableBuilder.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_spellcorrector-org.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_spellcorrector.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/cpp/speller/t_spellfactory.pdb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/test/poi-modified.txt" afterPath="$PROJECT_DIR$/bin/test/poi-modified.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SpellCorrector.java" afterPath="$PROJECT_DIR$/src/SpellCorrector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" afterPath="$PROJECT_DIR$/src/debug/RandomWordExtractor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_oC.txt" afterPath="$PROJECT_DIR$/src/dic/result_oC.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_oV.txt" afterPath="$PROJECT_DIR$/src/dic/result_oV.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_tCD.txt" afterPath="$PROJECT_DIR$/src/dic/result_tCD.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_tCI.txt" afterPath="$PROJECT_DIR$/src/dic/result_tCI.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_tVD.txt" afterPath="$PROJECT_DIR$/src/dic/result_tVD.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dic/result_tVI.txt" afterPath="$PROJECT_DIR$/src/dic/result_tVI.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kma/KMAWrapper.java" afterPath="$PROJECT_DIR$/src/kma/KMAWrapper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/MakeUserNoun.java" afterPath="$PROJECT_DIR$/src/test/MakeUserNoun.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/POITest.java" afterPath="$PROJECT_DIR$/src/test/POITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/poi-all-nnr-summary.txt" afterPath="$PROJECT_DIR$/src/test/poi-all-nnr-summary.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/poi-modified-bigram.txt" afterPath="$PROJECT_DIR$/src/test/poi-modified-bigram.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/poi-modified.txt" afterPath="$PROJECT_DIR$/src/test/poi-modified.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/KeystrokeConvertor.java" afterPath="$PROJECT_DIR$/src/util/KeystrokeConvertor.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -201,9 +183,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -230,13 +211,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpellCorrector-proto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/wkosl.dll" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -599,6 +595,14 @@
       <option name="presentableId" value="Default" />
       <updated>1491878711150</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1492419823245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1492419823245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -607,21 +611,18 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="97" y="117" width="1736" height="856" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22116402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22116402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -632,7 +633,10 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="97" y="117" width="1736" height="856" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -668,6 +672,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -677,7 +685,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.IdeaIC2016.3/idea.exe.vmoptions" />
     <entry file="file://$PROJECT_DIR$/src/test/poi-all-nnr-list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -733,7 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-794">
           <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2760">
           <caret line="120" column="31" lean-forward="false" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,9 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,7 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,9 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="124" column="48" lean-forward="false" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,7 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -867,7 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -875,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -883,7 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -891,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -899,7 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="136952" column="4" lean-forward="false" selection-start-line="136952" selection-start-column="4" selection-end-line="136952" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -911,15 +902,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/poi-modified-bigram.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="229433" column="2" lean-forward="false" selection-start-line="229433" selection-start-column="2" selection-end-line="229433" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="LargeFileEditor">
         <state relative-caret-position="1327793">
           <caret line="57817" column="9" lean-forward="true" selection-start-line="57817" selection-start-column="9" selection-end-line="57817" selection-end-column="9" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="229433" column="2" lean-forward="false" selection-start-line="229433" selection-start-column="2" selection-end-line="229433" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -927,7 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="1745" column="6" lean-forward="false" selection-start-line="1745" selection-start-column="6" selection-end-line="1745" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,7 +924,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
           <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -943,7 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1012">
           <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,10 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="713">
           <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-          <folding>
-            <marker date="1491998378036" expanded="true" signature="3403:4400" ph="..." />
-            <marker date="1491998378036" expanded="false" signature="3565:3573" ph="&lt;~&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,7 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="1083" column="6" lean-forward="false" selection-start-line="1083" selection-start-column="6" selection-end-line="1083" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,7 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="56" column="81" lean-forward="false" selection-start-line="56" selection-start-column="81" selection-end-line="56" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -993,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1001,12 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="290" column="83" lean-forward="false" selection-start-line="290" selection-start-column="83" selection-end-line="290" selection-end-column="83" />
-          <folding>
-            <element signature="e#4529#4537#0" expanded="true" />
-            <element signature="e#4602#4610#0" expanded="true" />
-            <element signature="e#4902#4910#0" expanded="true" />
-            <element signature="e#7946#7954#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,7 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,7 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="78987" column="3" lean-forward="false" selection-start-line="78987" selection-start-column="3" selection-end-line="78987" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1038,7 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1046,7 +1015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1054,7 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
           <caret line="921" column="3" lean-forward="false" selection-start-line="921" selection-start-column="3" selection-end-line="921" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1062,6 +1029,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="710">
           <caret line="33028" column="3" lean-forward="false" selection-start-line="33028" selection-start-column="3" selection-end-line="33028" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/cpp/speller/SpellCorrector.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="74" column="24" lean-forward="false" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
           <folding />
         </state>
       </provider>
